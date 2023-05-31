@@ -1,12 +1,20 @@
-## Hi there 👋
+# RiftMC
 
-<!--
+[![Spigot Version](https://img.shields.io/badge/Spigot-1.19-dark_green.svg)](https://shields.io/)
+[![Crowdin](https://badges.crowdin.net/kingdomsx/localized.svg)](https://crowdin.com/project/kingdomsx)
+[![CodeFactor](https://www.codefactor.io/repository/github/cryptomorin/kingdomsx/badge/master)](https://www.codefactor.io/repository/github/cryptomorin/kingdomsx/overview/master)
+[![Discord](https://discordapp.com/api/guilds/429132410748141579/widget.png?style=shield)](https://discord.gg/riftmc)
+<!-- Another unofficial Discord badge style: https://img.shields.io/discord/429132410748141579?logo=discord -->
 
-**Here are some ideas to get you started:**
+<img src="http://i.riftmc.net/u/MJsVSB.png">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Minecraft Multiplayer Network..
+
+### Links:
+
+- [Website](https://riftmc.net): The official RiftMC website.
+- [Discord](https://discord.gg/riftmc): Official RiftMC Discord server. 
+
+### Contributing
+
+Please submit your applications on the [forum](https://riftmc.net/apply).
