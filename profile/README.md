@@ -19,4 +19,4 @@ Please submit your applications on the [forum](https://riftmc.net/apply).
 
 ### Contact
 
-Feel free to reach out to us at [contact@riftmc.net](https://mailto:contact@riftmc.net)
+Feel free to reach out to us at [contact@riftmc.net](mailto:contact@riftmc.net)
