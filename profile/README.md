@@ -4,7 +4,7 @@
 [![Discord](https://discordapp.com/api/guilds/429132410748141579/widget.png?style=shield)](https://discord.gg/riftmc)
 <!-- Another unofficial Discord badge style: https://img.shields.io/discord/429132410748141579?logo=discord -->
 
-<img src="http://i.riftmc.net/to/OPfp6n">
+![Rift No Border Cropped](https://github.com/RiftMCS/.github/assets/95508140/fc8d6a9a-8f45-41fb-ada3-ef3342b1677a)
 
 Minecraft Multiplayer Network..
 
@@ -19,4 +19,5 @@ Please submit your applications on the [forum](https://riftmc.net/apply).
 
 ### Contact
 
-Feel free to reach out to us at [contact@riftmc.net](mailto:contact@riftmc.co)
+Feel free to reach out to us at [contact@riftmc.net](mailto:contact@riftmc.net)
+
