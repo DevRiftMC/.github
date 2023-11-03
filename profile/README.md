@@ -4,7 +4,7 @@
 [![Discord](https://discordapp.com/api/guilds/429132410748141579/widget.png?style=shield)](https://discord.gg/riftmc)
 <!-- Another unofficial Discord badge style: https://img.shields.io/discord/429132410748141579?logo=discord -->
 
-<img src="http://i.riftmc.net/u/MJsVSB.png">
+<img src="http://i.riftmc.net/to/OPfp6n">
 
 Minecraft Multiplayer Network..
 
